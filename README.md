@@ -1,0 +1,15 @@
+# Beat-Vinyl
+
+##PROJET BEATVINYL
+
+
+
+OBJECTIF :  CREATION D’UNE APPLICATION QUI PROPOSE DE LA MUSIQUE EN STREAMING IOS ET PEUX ETRE ANDROID 
+
+TECHNOLOGIES : CORDOVA OU SWITCH
+
+FONCTIONNALITE :  ->N ESPACE MEMBRE 
+                                    ->UNE RECHERCHE PAR GENRE 
+                                    ->UN LECTEUR RAPPELANT LES VINYLS
+                                    ->UNE CREATION DE PLAYLIST 
+                               
